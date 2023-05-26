@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Week6StringsAndArrays\RandomElements\bin\Debug\net6.0\RandomElements.exe
+C:\Users\User\source\repos\Week6StringsAndArrays\RandomElements\bin\Debug\net6.0\RandomElements.deps.json
+C:\Users\User\source\repos\Week6StringsAndArrays\RandomElements\bin\Debug\net6.0\RandomElements.runtimeconfig.json
+C:\Users\User\source\repos\Week6StringsAndArrays\RandomElements\bin\Debug\net6.0\RandomElements.dll
+C:\Users\User\source\repos\Week6StringsAndArrays\RandomElements\bin\Debug\net6.0\RandomElements.pdb
+C:\Users\User\source\repos\Week6StringsAndArrays\RandomElements\obj\Debug\net6.0\RandomElements.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Week6StringsAndArrays\RandomElements\obj\Debug\net6.0\RandomElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Week6StringsAndArrays\RandomElements\obj\Debug\net6.0\RandomElements.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Week6StringsAndArrays\RandomElements\obj\Debug\net6.0\RandomElements.AssemblyInfo.cs
+C:\Users\User\source\repos\Week6StringsAndArrays\RandomElements\obj\Debug\net6.0\RandomElements.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Week6StringsAndArrays\RandomElements\obj\Debug\net6.0\RandomElements.dll
+C:\Users\User\source\repos\Week6StringsAndArrays\RandomElements\obj\Debug\net6.0\refint\RandomElements.dll
+C:\Users\User\source\repos\Week6StringsAndArrays\RandomElements\obj\Debug\net6.0\RandomElements.pdb
+C:\Users\User\source\repos\Week6StringsAndArrays\RandomElements\obj\Debug\net6.0\RandomElements.genruntimeconfig.cache
+C:\Users\User\source\repos\Week6StringsAndArrays\RandomElements\obj\Debug\net6.0\ref\RandomElements.dll
